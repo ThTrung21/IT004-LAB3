@@ -32,7 +32,7 @@
                 danhsach.SubItems.Add(loc);
                 danhsach.SubItems.Add(price);
                 listView_show.Items.Add(danhsach);
-                MessageBox.Show("You have successfuly added your account", "Notify", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("You have sdsdassdsuccessfuly added your account", "Notify", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 
                 sotaikhoan.Clear();
                 tenkh.Clear();
